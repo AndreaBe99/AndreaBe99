@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Andrea Bernini</h1>
-<h3 align="center">Graduated in Computer Science at the Tor Vergata University, currently engaged in the achievement of the Master's Degree in English of the Computer Sciences course at Sapienza in Rome, with specialization in the Machine Learning module.</h3>
+<h3 align="center">Graduated in Computer Science at the Tor Vergata University.</h3>
 
 - 📝 I’m currently attending **the Machine Learning and AI course at the La Sapienza University of Rome**
 
