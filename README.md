@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/andreabe99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andreabe99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andrea bernini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrea bernini" height="30" width="40" /></a>
-<a href="https://kaggle.com/andrea bernini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="andrea bernini" height="30" width="40" /></a>
-<a href="https://fb.com/andrea bernini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andrea bernini" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/andrea-bernini-4bbb58211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrea bernini" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/andreabernini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="andrea bernini" height="30" width="40" /></a>
+<a href="https://www.facebook.com/andrea.bernini.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andrea bernini" height="30" width="40" /></a>
 <a href="https://instagram.com/_andrea.bernini_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_andrea.bernini_" height="30" width="40" /></a>
 </p>
 
