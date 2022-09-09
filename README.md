@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📫 My mail: *andreabe99@gmail.com**.
 
-- 📱 My Social: <a href="https://linktr.ee/andreabe99">*
+- 📱 My Social: <a href="https://linktr.ee/andreabe99"> LinkTree </a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
