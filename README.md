@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndreaBe99?tab=repositories](https://github.com/AndreaBe99?tab=repositories)
 
-- 📫 My mail: *andreabe99@gmail.com**.
+- 📫 My mail: *andreabe99@gmail.com*.
 
 - 📱 My Social: <a href="https://linktr.ee/andreabe99"> LinkTree </a>.
 
