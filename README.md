@@ -1,4 +1,4 @@
-# 💫 About Me:
+<!-- # 💫 About Me:
 Hi 👋🏻, I'm Andrea Bernini<br><br>👨🏻‍🎓 I'm graduated in Computer Science at the Tor Vergata University.<br>📚 I’m currently attending the Machine Learning and AI course at the La Sapienza University of Rome. <br>💻 All of my projects are available [here](https://github.com/AndreaBe99?tab=repositories). <br>🌱 My aspiration is to work in the field of Big Data and more generally with everything related to Machine Learning or Deep Learning.<br>💬 My Social: [LinkTree](https://linktr.ee/andreabe99).
 
 
@@ -17,5 +17,6 @@ Hi 👋🏻, I'm Andrea Bernini<br><br>👨🏻‍🎓 I'm graduated in Computer
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AndreaBe99&icon=0&color=0)](https://visitcount.itsvg.in)
+-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
